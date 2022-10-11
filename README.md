@@ -29,9 +29,9 @@ Ten en cuenta que podrás acceder de forma previa a la fecha del evento a un dic
 
 Esta competencia contará con 3 entregables:
 
-Visualizaciones.
-CSV con predicciones.
-Presentación en Google Slides.
+1. Visualizaciones.
+2. CSV con predicciones.
+3. Presentación en Google Slides.
 
 Cada equipo deberá presentar el resultado final de su trabajo en una presentación en formato *elevator pitch* o [reporte de resultados](https://www.inboundcycle.com/blog-de-inbound-marketing/como-elaborar-informe-para-presentar-resultados-estrategia).
 

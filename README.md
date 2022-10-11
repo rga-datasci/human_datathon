@@ -1,6 +1,6 @@
 # HUMAN DATATHON 2022
 
-[![banner](https://user-images.githubusercontent.com/113708256/192362109-207e0ae2-55be-46f9-84c2-0344e26fb013.png)](https://humandatathon.rgaba.com/prerelease)
+[![banner](https://user-images.githubusercontent.com/113708256/195183751-b10d8a9c-041b-4120-9b6f-b2cba179bb12.png)](https://humandatathon.rgaba.com/prerelease)
 
 ## Introducción
 
@@ -19,9 +19,9 @@ En este evento no sólo pondrás a prueba tus capacidades técnicas para analiza
 
 Los datos corresponden a registros históricos de empleabilidad recolectados por [Sysarmy](https://sysarmy.com/blog/) disponibilizados en formato tabular.
 
-Las bases incluyen edad, género, lenguajes de programación, sueldo, entre muchas variables. Para facilitar el proceso de entrenamiento del modelo predictivo, la data ya se encuentra dividida en dos carpetas (`Train` y `Test`). Tené en cuenta que sólo podrás acceder a la misma el día de la competencia.
+Las bases incluyen edad, género, lenguajes de programación, sueldo, entre muchas variables. Para facilitar el proceso de entrenamiento del modelo predictivo, la data ya se encuentra dividida en dos carpetas (`train` y `test`). Tené en cuenta que sólo podrás acceder a la misma el día de la competencia.
 
-La data de `Test` consistirá solamente en features para que puedas construir el modelo. La información correspondiente a la variable *target* no estará disponible para el dataset de prueba. El jurado utilizará la data real para evaluar el rendimiento de los modelos entrenados por los equipos. La performance será evaluada utilizando [RMSE](https://es.wikipedia.org/wiki/Ra%C3%ADz_del_error_cuadr%C3%A1tico_medio).
+La data de `test` consistirá solamente en features para que puedas construir el modelo. La información correspondiente a la variable *target* no estará disponible para el dataset de prueba. El jurado utilizará la data real para evaluar el rendimiento de los modelos entrenados por los equipos. La performance será evaluada utilizando [RMSE](https://es.wikipedia.org/wiki/Ra%C3%ADz_del_error_cuadr%C3%A1tico_medio).
 
 Ten en cuenta que podrás acceder de forma previa a la fecha del evento a un diccionario de datos (`Data_Schema.xlsx`) en donde encontrarán los nombres de los campos disponibles y una breve definición de los mismos. 
 
@@ -118,7 +118,7 @@ Este entregable será presentado en conjunto con la visualización de datos (ent
 
 ## Recomendaciones generales
 
--   Explorar el data schema (`Data_Schema.xlsx`) antes del evento para tener una idea de los posibles desafíos a la hora de construir el modelo y posibles inequidades que deseen ser exploradas.
+-   Explorar el data schema (`data_schema.xlsx`) antes del evento para tener una idea de los posibles desafíos a la hora de construir el modelo y posibles inequidades que deseen ser exploradas.
 
 -   ¿Hay material que puedas adelantar antes del evento? Un template de la presentación a preparar puede terminar ahorrando mucho tiempo y ayudándonos a organizarnos antes de comenzar.
 

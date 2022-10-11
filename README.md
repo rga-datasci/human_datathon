@@ -23,7 +23,7 @@ Las bases incluyen edad, género, lenguajes de programación, sueldo, entre much
 
 La data de `test` consistirá solamente en features para que puedas construir el modelo. La información correspondiente a la variable *target* no estará disponible para el dataset de prueba. El jurado utilizará la data real para evaluar el rendimiento de los modelos entrenados por los equipos. La performance será evaluada utilizando [RMSE](https://es.wikipedia.org/wiki/Ra%C3%ADz_del_error_cuadr%C3%A1tico_medio).
 
-Ten en cuenta que podrás acceder de forma previa a la fecha del evento a un diccionario de datos (`Data_Schema.xlsx`) en donde encontrarán los nombres de los campos disponibles y una breve definición de los mismos. 
+Ten en cuenta que podrás acceder de forma previa a la fecha del evento a un diccionario de datos (`data_schema.xlsx`) en donde encontrarán los nombres de los campos disponibles y una breve definición de los mismos. 
 
 ## Entregables
 

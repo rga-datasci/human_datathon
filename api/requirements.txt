@@ -1,0 +1,5 @@
+pandas==1.5.0
+fastapi==0.80.0
+uvicorn==0.17.4
+google-cloud==0.34.0
+scikit-learn==1.1.2

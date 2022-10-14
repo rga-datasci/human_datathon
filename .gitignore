@@ -2,7 +2,7 @@
 train
 api
 test
-src
+utils
 groups
 
 # Avoid commiting the target csv until the end
@@ -11,3 +11,4 @@ test/target.csv
 # default ignored files
 .env
 .idea
+service-account-file.json

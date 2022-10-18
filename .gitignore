@@ -1,10 +1,3 @@
-# Will remove this by order given the stages of the datathon
-utils
-groups
-
-# Avoid commiting the target csv until the end
-test/target.csv
-
 # default ignored files
 .env
 .idea
